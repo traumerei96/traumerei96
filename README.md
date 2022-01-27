@@ -1,4 +1,4 @@
-# traumerei96
+## Vladislav
 
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
@@ -9,7 +9,7 @@
   <img align="left" alt="Vladislav Stepanenko | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://visitor-badge.glitch.me/badge?page_id=traumerei96.traumerei96)
 
 <br />
 
@@ -30,4 +30,4 @@ Hi, i'm [Vladislav Stepanenko](), a passionate self-taught full stack web develo
 
 📈 my github stats
 
-<p aligth="center"> <img src="https://github-readme-stats.vercel.app/api?username=traumerei96&show_icons=true&theme=gotham" alt="traumerei96" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=traumerei96&show_icons=true&theme=gotham" alt="traumerei96" />
